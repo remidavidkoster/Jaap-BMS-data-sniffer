@@ -1,24 +1,24 @@
 [PreviousGenFiles]
 AdvancedFolderStructure=true
 HeaderFileListSize=6
-HeaderFiles#0=C:/GIT/Jaap BMS data sniffer/Core/Inc/gpio.h
-HeaderFiles#1=C:/GIT/Jaap BMS data sniffer/Core/Inc/dma.h
-HeaderFiles#2=C:/GIT/Jaap BMS data sniffer/Core/Inc/spi.h
-HeaderFiles#3=C:/GIT/Jaap BMS data sniffer/Core/Inc/stm32f1xx_it.h
-HeaderFiles#4=C:/GIT/Jaap BMS data sniffer/Core/Inc/stm32f1xx_hal_conf.h
-HeaderFiles#5=C:/GIT/Jaap BMS data sniffer/Core/Inc/main.h
+HeaderFiles#0=C:/GIT/Jaap-BMS data sniffer/Core/Inc/gpio.h
+HeaderFiles#1=C:/GIT/Jaap-BMS data sniffer/Core/Inc/dma.h
+HeaderFiles#2=C:/GIT/Jaap-BMS data sniffer/Core/Inc/spi.h
+HeaderFiles#3=C:/GIT/Jaap-BMS data sniffer/Core/Inc/stm32f1xx_it.h
+HeaderFiles#4=C:/GIT/Jaap-BMS data sniffer/Core/Inc/stm32f1xx_hal_conf.h
+HeaderFiles#5=C:/GIT/Jaap-BMS data sniffer/Core/Inc/main.h
 HeaderFolderListSize=1
-HeaderPath#0=C:/GIT/Jaap BMS data sniffer/Core/Inc
+HeaderPath#0=C:/GIT/Jaap-BMS data sniffer/Core/Inc
 HeaderFiles=;
 SourceFileListSize=6
-SourceFiles#0=C:/GIT/Jaap BMS data sniffer/Core/Src/gpio.c
-SourceFiles#1=C:/GIT/Jaap BMS data sniffer/Core/Src/dma.c
-SourceFiles#2=C:/GIT/Jaap BMS data sniffer/Core/Src/spi.c
-SourceFiles#3=C:/GIT/Jaap BMS data sniffer/Core/Src/stm32f1xx_it.c
-SourceFiles#4=C:/GIT/Jaap BMS data sniffer/Core/Src/stm32f1xx_hal_msp.c
-SourceFiles#5=C:/GIT/Jaap BMS data sniffer/Core/Src/main.c
+SourceFiles#0=C:/GIT/Jaap-BMS data sniffer/Core/Src/gpio.c
+SourceFiles#1=C:/GIT/Jaap-BMS data sniffer/Core/Src/dma.c
+SourceFiles#2=C:/GIT/Jaap-BMS data sniffer/Core/Src/spi.c
+SourceFiles#3=C:/GIT/Jaap-BMS data sniffer/Core/Src/stm32f1xx_it.c
+SourceFiles#4=C:/GIT/Jaap-BMS data sniffer/Core/Src/stm32f1xx_hal_msp.c
+SourceFiles#5=C:/GIT/Jaap-BMS data sniffer/Core/Src/main.c
 SourceFolderListSize=1
-SourcePath#0=C:/GIT/Jaap BMS data sniffer/Core/Src
+SourcePath#0=C:/GIT/Jaap-BMS data sniffer/Core/Src
 SourceFiles=;
 
 [PreviousLibFiles]

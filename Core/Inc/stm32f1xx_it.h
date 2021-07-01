@@ -59,7 +59,7 @@ void SysTick_Handler(void);
 void DMA1_Channel2_IRQHandler(void);
 void SPI1_IRQHandler(void);
 /* USER CODE BEGIN EFP */
-extern volatile uint8_t newData;
+
 /* USER CODE END EFP */
 
 #ifdef __cplusplus
